@@ -1,4 +1,4 @@
-# Project Name
+# QuickOTP
 
 This Project was presented in [Vandy Hacks](https://devpost.com/software/quickotp) and won the Best Use of Workshop Tech
 
@@ -25,3 +25,8 @@ https://github.com/user-attachments/assets//95db5123-dced-4cb1-bc14-5a7cc19efc42
 5. **Popup & Autofill**: The extracted OTP or link is displayed in a popup. OTPs are automatically filled, and verification links can be opened in a new tab.
 
 6. **Client-Side Privacy**: Google auth tokens are handled entirely in the browser, ensuring they are not shared with the backend.
+
+# Architecture Diagram:
+
+![image](https://github.com/user-attachments/assets/e5ced052-798f-465a-a9f0-bfc9b888045e)
+
